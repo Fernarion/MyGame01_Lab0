@@ -9,18 +9,18 @@
 
 **รหัสนักศึกษา:682110112**
 
-**สัปดาห์ที่:2**
+**สัปดาห์ที่:3**
 
 ---
 
 ## ① สรุปเนื้อหาที่เรียน — ฉันได้เรียนรู้อะไรในสัปดาห์นี้?
-Learning about Markdown Preview Mermaid Support and a way to make graph, statistic and mind mapping with code
+Learning about a Team Feature on Github
 
 ## ② สรุปการฝึกปฏิบัติ — ฉันได้ทดลองและฝึกเขียนโปรแกรมอะไรบ้าง?
-Codes for Mermaid Support
+Editting notes about the game's concept, core loop and feature
 
 ## ③ ปัญหา / ข้อสงสัย — สิ่งที่ยังไม่เข้าใจหรืออยากสำรวจต่อ
-Its easily understandable but the Fork part (which the teacher abandons that method immediately) is a bit confusing
+I may need to study more about Github because its kind of new to me
 
 ## ④ ประเมินตนเอง
 
@@ -30,7 +30,7 @@ Its easily understandable but the Fork part (which the teacher abandons that met
 
 | รายการ                                 | ระดับ                                                                                       |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| ระดับความเข้าใจเนื้อหา | ⬜ ต้องทบทวนอีก  ⬜ พอเข้าใจ  ✅ เข้าใจดี  ⬜ เข้าใจดีมาก |
+| ระดับความเข้าใจเนื้อหา | ⬜ ต้องทบทวนอีก  ⬜ พอเข้าใจ  ⬜ เข้าใจดี  ✅ เข้าใจดีมาก |
 | ความพยายามฝึกปฏิบัติ     | ⬜ น้อย  ⬜ ปานกลาง  ✅ มาก  ⬜ มากที่สุด                                 |
 
 ---
